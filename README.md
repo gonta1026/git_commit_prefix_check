@@ -1,0 +1,2 @@
+# git_commit_prefix_check
+gitのコミットにprefixをつけるようにしたい。
